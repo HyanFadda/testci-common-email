@@ -1,0 +1,8 @@
+diff a/src/test/java/Fadda_Hyan/TestEmailClass.java b/src/test/java/Fadda_Hyan/TestEmailClass.java	(rejected hunks)
+@@ -37,5 +37,4 @@
+ 		assertEquals(60000, email.getSocketConnectionTimeout());
+ 	}
+ 
+-	// This method is created to test the "getSentDate()" method
+ 	
+\ No newline at end of file
